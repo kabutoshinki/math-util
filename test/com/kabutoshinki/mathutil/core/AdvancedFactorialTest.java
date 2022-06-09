@@ -33,7 +33,8 @@ public class AdvancedFactorialTest {
             {2,2},
             {3,6},
             {4,24},
-            {5,120},
+            {5,1120},
+            {6,1120},
         };
     }
     @Parameterized.Parameter(value = 0)
