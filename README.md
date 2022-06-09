@@ -9,4 +9,4 @@
 ### Screen shot:
 ![Junit-DDT](https://github.com/kabutoshinki/math-util/blob/main/images/math-util-intro.png)
 
-#### © nguyenhoanghuy1311 2022
+#### © kabutoshinki 2022
